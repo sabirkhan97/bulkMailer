@@ -12,6 +12,7 @@
   "dependencies": {
     "@tailwindcss/vite": "^4.2.4",
     "@vercel/node": "^5.7.13",
+    "formidable": "^3.5.4",
     "nodemailer": "^8.0.7",
     "react": "^19.2.5",
     "react-dom": "^19.2.5",
@@ -19,6 +20,7 @@
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
+    "@types/formidable": "^3.5.1",
     "@types/node": "^24.12.2",
     "@types/nodemailer": "^8.0.0",
     "@types/react": "^19.2.14",
